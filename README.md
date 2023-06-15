@@ -1,10 +1,8 @@
-# Awesome GitHub Profile README Template Collection
+# Cool GitHub Profile Template Collection
 
 [![GitHub stars](https://img.shields.io/github/stars/smile1130/cool-github-profile.svg)](https://github.com/smile1130/cool-github-profile/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/smile1130/cool-github-profile.svg?color=blue)](https://github.com/smile1130/cool-github-profile/network)
 [![GitHub contributors](https://img.shields.io/github/contributors/smile1130/cool-github-profile.svg?color=blue)](https://github.com/smile1130/cool-github-profile/network)
-
-A collection of GitHub profile README's examples.
 
 [Contributions](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/CONTRIBUTING.md) are welcome. Read the [Guidelines](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/CONTRIBUTING.md) on to contribute.
 Feel free to add your or someone else's GitHub profile README file.
