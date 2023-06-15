@@ -1,6 +1,6 @@
 Welcome to the list of awesome GitHub profile readme templates and thanks for considering to contribute. Contributions are welcome so we can tap into the collection of best Github profile readmes' in one place.
 
-Please [open a pull request](https://github.com/themlphdstudent/awesome-github-profile-readme-templates/pulls) if you would like to contribute new or improve existing readme. If you would like to comment on or discuss content but don't have concrete changes yet, please [open an issue](https://github.com/themlphdstudent/awesome-github-profile-readme-templates/issues).
+Please [open a pull request](https://github.com/smile1130/cool-github-profile/pulls) if you would like to contribute new or improve existing readme. If you would like to comment on or discuss content but don't have concrete changes yet, please [open an issue](https://github.com/smile1130/cool-github-profile/issues).
 
 This is a curated list so the goal is not to collect all possible resources but collect the ones which are most helpful, provide a unique perspective, or are of special significance.
 
