@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
 
-[Contributions](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/CONTRIBUTING.md) are welcome. Read the [Guidelines](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/CONTRIBUTING.md) on to contribute.
+[Contributions](https://github.com/smile1130/cool-github-profile/blob/master/CONTRIBUTING.md) are welcome. Read the [Guidelines](https://github.com/smile1130/cool-github-profile/blob/master/CONTRIBUTING.md) on to contribute.
 Feel free to add your or someone else's GitHub profile README file.
 
 Don't forget to hit the :star:, If you like this repo.
